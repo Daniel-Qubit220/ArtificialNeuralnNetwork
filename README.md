@@ -1,4 +1,5 @@
-#**Artificial neural network in keras**
+# **Artificial neural network in keras**
+
 I work on a artificial neural network to classify roses and 
 sunflowers. It was developed in Keras, this is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. 
 
